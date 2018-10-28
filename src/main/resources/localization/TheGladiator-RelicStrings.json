@@ -1,0 +1,9 @@
+{
+  "gladiator:BloodLust" : {
+    "NAME": "Blood Lust"
+    ,"FLAVOR": "MORE!"
+    ,"DESCRIPTIONS": [
+      "Whenever an enemy dies, gain [E]."
+    ]
+  }
+}

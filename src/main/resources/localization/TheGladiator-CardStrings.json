@@ -1,0 +1,14 @@
+{
+  "gladiator:StrikeGladiator": {
+    "NAME":"Strike"
+    ,"DESCRIPTION": "Deal !D! damage."
+  },
+  "gladiator:DefendGladiator": {
+    "NAME":"Defend"
+    ,"DESCRIPTION": "Gain !B! Block."
+  },
+  "gladiator:Net": {
+    "NAME":"Net"
+    ,"DESCRIPTION": "Stun target. Exhaust"
+  }
+}
